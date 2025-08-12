@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 
 ## Usage
-python3 scraper.py https://example.com 10 output.csv
+python3 scraper.py https://cugetliber.ro 10 output.csv
 
 
 ![image](scraper.png)
